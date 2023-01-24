@@ -1,0 +1,30 @@
+body {
+  display: block;
+  background-color: #f8e8a6;
+  margin: 8px;
+}
+
+h1,
+p {
+  display: block;
+  margin-top: 21.44px;
+  margin-bottom: 21.44px;
+
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
+
+footer a {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0 10px;
+  color: green;
+}
