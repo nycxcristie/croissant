@@ -9,13 +9,19 @@ p {
   display: block;
   margin-top: 21.44px;
   margin-bottom: 21.44px;
-
   text-align: center;
   font-family: "Times New Roman", Times, serif;
 }
 
 h1 {
   font-weight: bold;
+}
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  color: rgb(230, 229, 216);
+  display: block;
+  background-color: rgb(0, 0, 0);
 }
 
 footer {
